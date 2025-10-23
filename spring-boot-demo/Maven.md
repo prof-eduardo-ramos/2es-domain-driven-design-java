@@ -1,5 +1,3 @@
-Aqui está uma explicação simples e objetiva sobre o Maven e seu uso com o Spring Boot:
-
 **O que é o Maven?**
 
 * **Ferramenta de Automação de Build:** O Maven é uma ferramenta que automatiza o processo de "construção" (build) de um projeto de software, principalmente em Java.
